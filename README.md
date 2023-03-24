@@ -1,7 +1,7 @@
-# [HKU Moodle Course Hider](./HKUMoodleCourseHider.js)
+# HKU Moodle Course Hider
 [HKU Moodle Course Hider](./HKUMoodleCourseHider.js) is a tampermonkey script that generates a menu to allow the user to select courses to be hidden or displayed on the My Courses page on HKU Moodle.
 
-<img src="./README/screenshot1.png" width=70% height=70%>
+<img src="./README/screenshot1.png">
 
 
 ## How to use
